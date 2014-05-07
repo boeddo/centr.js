@@ -1,4 +1,4 @@
-<img src="http://boeddo.com/assets/img/centr-logo.png" width='447' alt='jquery.pep.js'>
+<img src="http://boeddo.com/assets/img/centr-logo.png" width='447' alt='centr.js'>
 ----
 
 Minimal jQuery plugin to center objects.
