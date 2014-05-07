@@ -6,7 +6,7 @@ Minimal jQuery plugin to center objects.
 ## Getting Started
 Getting started is simple: include jQuery, include Centr, then:
 ```javascript
-$('#object').centr();
+$('#object').centr(); // it's that easy
 ```
 
 ## Usage
